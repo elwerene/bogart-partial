@@ -1,0 +1,15 @@
+{
+  "name": "bogart-partial-test",
+  "version": "0.0.1",
+  "description": "bogart partial test",
+  "author": {
+    "name": "Rene Roessler"
+  },
+  "main": "./test",
+  "dependencies": {
+    "bogart": "*"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
